@@ -1,6 +1,6 @@
 ### Hi there I’m Sina 👋
 
-🌱 I’m currently learning Front-end Development with React.js.
+🌱 Front-end Developer with hands-on experience in React.js, passionate about building clean, user-friendly web applications.
 
 ## My Stack:
 
